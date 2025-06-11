@@ -14,3 +14,6 @@ let favoriteNumber= 8;
 // - Use a number value of your favorite number.
 
 // 4. Console log each variable on a new line.
+console.log(favoriteColor);
+console.log(favoriteFood);
+console.log(favoriteNumber);
