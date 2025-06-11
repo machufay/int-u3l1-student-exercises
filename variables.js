@@ -1,13 +1,11 @@
 // CODE ALONG, PART 1
-let favoriteColor;
+let favoriteColor ="black";
 
 // 1. Create a variable called `favoriteFood`.
-
+let favoriteFood= "dog";
 
 // 2. Create a variable called `favoriteNumber`.
-
-
-
+let favoriteNumber= 8;
 
 // CODE ALONG, PART 2
 //  3. Assign values for each variables.
